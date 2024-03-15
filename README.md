@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulvakeel&label=Profile%20views&color=0e75b6&style=flat" alt="abdulvakeel" /> </p>
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWE5b3FuOXpvbHp3eGI5ODhyYWt1d29kMGJ1MjR3dnlvMDE2dThqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Hack Coding GIF by Matthew Butler" style="width: 500px; height: 281px; left: 0px; top: 0px; opacity: 0;">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulvakeel" alt="abdulvakeel" /></a> </p>
 
 - 🔭 I’m currently working on **Working as a Software Engineer and contributing to frontend and backend for building web applications and portals**
