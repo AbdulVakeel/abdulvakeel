@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Working as a Software Engineer and contributing to frontend and backend for building web applications and portals**
 
-- 🌱 I’m currently learning **I’m currently learning: Machine Learning,Artificial Intelligence systems and DevOps...**
+- 🌱 I’m currently learning : Machine Learning,Artificial Intelligence systems and DevOps...**
 
 - 💬 Ask me about **Laravel, PHP, Vuejs, REST API, nextjs, tailwindcss, ionicframework, mongodb, flutter, konstaui, reactjs, nodejs**
 
