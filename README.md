@@ -49,17 +49,6 @@
 <img width=50%  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvakeel&show_icons=true&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats"  />
 
 </div>
-<div class="row">
-    <div class="col">
-      1 of 3
-    </div>
-    <div class="col">
-      2 of 3
-    </div>
-    <div class="col">
-      3 of 3
-    </div>
-  </div>
 
-<br/><br/>
+<br/>
 
