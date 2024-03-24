@@ -12,8 +12,7 @@
 <a href='https://www.buymeacoffee.com/abdulvakeel' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-<br>
-</hr>
+   <hr/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulvakeel" alt="abdulvakeel" /></a> </p>
 
