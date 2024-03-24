@@ -41,11 +41,11 @@
      <hr/>
     <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<img width=290  align="center" src="https://github-readme-stats.vercel.app/api?username=abdulvakeel&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="abdulvakeel" />
+<img width=290  align="center" src="https://github-readme-stats.vercel.app/api?username=abdulvakeel&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"  />
 
-<img width=290 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulvakeel&count_private=true&theme=react&border_radius=10" alt="abdulvakeel" />
+<img width=290 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulvakeel&count_private=true&theme=react&border_radius=10"  />
 
-<img width=320  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvakeel&show_icons=true&&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="abdulvakeel" />
+<img width=320  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvakeel&show_icons=true&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats"  />
  <hr/>
 </div>
 
