@@ -38,7 +38,7 @@
 
 
 <div align=center>
-     <hr/>
+
     <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <img width=290  align="center" src="https://github-readme-stats.vercel.app/api?username=abdulvakeel&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"  />
