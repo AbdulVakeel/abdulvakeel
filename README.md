@@ -6,9 +6,6 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWE5b3FuOXpvbHp3eGI5ODhyYWt1d29kMGJ1MjR3dnlvMDE2dThqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Hack Coding GIF by Matthew Butler" style="width: 1000px; height: 281px; left: 0px; top: 0px; opacity: 0;">
 
-<img src="https://skycodelab.io//git/skycodelab.gif"  style="width: 1000px; height: 281px; left: 0px; top: 0px; opacity: 0;">
-
-
 <a href="https://www.buymeacoffee.com/abdulvakeel" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
