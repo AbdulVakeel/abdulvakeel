@@ -7,8 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulvakeel&label=Profile%20views&color=0e75b6&style=flat" alt="abdulvakeel" /> </p>
 
-<a href="https://www.buymeacoffee.com/abdulvakeel" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+<div align="center">
+<a href='https://www.buymeacoffee.com/abdulvakeel' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br>
+</hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulvakeel" alt="abdulvakeel" /></a> </p>
 
