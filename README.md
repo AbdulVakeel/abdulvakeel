@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Vakeel!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/? font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Vakeel!;" />
 </h1>
    <hr/>
 <h3 align="center">I'm 😀 Abdul Vakeel Software Engineer from uttarakhand, India. I mostly deal with web development with HTML5/CSS/Javascript,Bootstrap, Jquery, tailwind css, Laravel, Vuejs and ChatGPT, software development stack in these days. I have 8+ years of development experience in architecting, designing, development and implementing of web applications, using Laravel,PHP, Vuejs, REST API, nextjs, tailwindcss, ionicframework, mongodb, flutter, konstaui, reactjs, nodejs and Web technologies.</h3>
