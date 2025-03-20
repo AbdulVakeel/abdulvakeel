@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Laravel, PHP, Vuejs, REST API, nextjs, tailwindcss, ionicframework, mongodb, flutter, konstaui, reactjs, nodejs**
 
-- 📫 How to reach me **abdulvakeel@skycodelab.io**
+- 📫 How to reach me **abdulvakeel@skycodelab.in**
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
