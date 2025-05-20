@@ -1,5 +1,5 @@
 
-<h3 align="center">I'm 😀 Abdul Vakeel Software Engineer from uttarakhand, India. I mostly deal with web development with HTML5/CSS/Javascript,Bootstrap, Jquery, tailwind css, Laravel, Vuejs and ChatGPT, software development stack in these days. I have 8+ years of development experience in architecting, designing, development and implementing of web applications, using Laravel,PHP, Vuejs, REST API, nextjs, tailwindcss,ionicframework, mongodb, flutter, konstaui, reactjs, nodejs and Web technologies.</h3>
+<h3 align="center">I'm 😀  Abdul -> Vakeel Software Engineer from uttarakhand, India. I mostly deal with web development with HTML5/CSS/Javascript,Bootstrap, Jquery, tailwind css, Laravel, Vuejs and ChatGPT, software development stack in these days. I have 8+ years of development experience in architecting, designing, development and implementing of web applications, using Laravel,PHP, Vuejs, REST API, nextjs, tailwindcss,ionicframework, mongodb, flutter, konstaui, reactjs, nodejs and Web technologies.</h3>
 
    <hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulvakeel&label=Profile%20views&color=0e75b6&style=flat" alt="abdulvakeel" /> </p>
