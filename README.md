@@ -1,56 +1,52 @@
-<h3 align="center">👋 Hi there, I'm Abdul Vakeel — Software Engineer from Uttarakhand, India 🇮🇳</h3>
 
-<p align="center">
-🚀 I specialize in full-stack web & software development, working with modern frameworks like Laravel, Vue.js, Tailwind CSS, and Node.js. I have over <strong>8 years of experience</strong> building scalable, user-centric applications using technologies like PHP, Python (Django, Flask), Next.js, Ionic, MongoDB, Flutter, React.js, and more.
-</p>
+<h3 align="center">I'm 😀   Abdul Vakeel Software Engineer from uttarakhand, India. I mostly deal with web development with HTML5/CSS/Javascript,Bootstrap, Jquery, tailwind css, Laravel, Vuejs and ChatGPT, software development  Laravel, PHP,Python (Django, Flask frameworks), Vuejs, REST API, nextjs, tailwindcss, ionicframework, mongodb, flutter, konstaui, reactjs, nodejs
+ stack in these days. I have 8+ years of development experience in architecting, designing, development and implementing of web applications, using Laravel,PHP, Vuejs, REST API, nextjs, tailwindcss,ionicframework, mongodb, flutter, konstaui, reactjs, nodejs and Web technologies.</h3> 
+ 
+   <hr/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulvakeel&label=Profile%20views&color=0e75b6&style=flat" alt="abdulvakeel" /> </p>
 
+
+<div align="center">
+<a href='https://www.buymeacoffee.com/abdulvakeel' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+   <hr/>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulvakeel" alt="abdulvakeel" /></a> </p>
+
+- 🔭 I’m currently working on **Working as a Software Engineer and contributing to frontend and backend for building web applications and portals**
+
+- 🌱 I’m currently learning : Machine Learning,Artificial Intelligence systems and DevOps...**
+
+- 💬 Ask me about **Laravel, PHP, Vuejs, REST API, nextjs, tailwindcss, ionicframework, mongodb, flutter, konstaui, reactjs, nodejs**
+
+- 📫 How to reach me **abdulvakeel@skycodelab.in**
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,laravel,mui,html,css,vscode,flutter,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,vuejs,nextjs,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
+</div>
+
+<br/>
 <hr/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulvakeel&label=Profile%20views&color=0e75b6&style=flat" alt="abdulvakeel" />
-</p>
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/abdulvakeel" target="_blank">
-    <img height="40" style="border:0px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee at ko-fi.com" />
-  </a>
+<div align=center>
+    <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+    
+<img width=300  align="center" src="https://github-readme-stats.vercel.app/api?username=abdulvakeel&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"  />
+
+
+<img width=300 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulvakeel&count_private=true&theme=react&border_radius=10"  />
+
+
+<img width=400  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvakeel&show_icons=true&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats"  />
+
 </div>
 
-<hr/>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdulvakeel&theme=flat&column=7" alt="Trophies" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools I Work With
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vuejs,laravel,php,python,django,flask,mongodb,mysql,firebase,tailwind,bootstrap,flutter,ionic,figma,git,github,vscode" />
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img width=360 src="https://github-readme-stats.vercel.app/api?username=abdulvakeel&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <img width=360 src="https://github-readme-streak-stats.herokuapp.com/?user=abdulvakeel&theme=react&border_radius=10" />
-  <img width=380 src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvakeel&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" />
-</div>
-
----
-
-### 💬 About Me
-
-- 🔭 Currently working as a **Software Engineer** contributing to frontend & backend web apps  
-- 🌱 Currently exploring **AI/ML** & **DevOps**  
-- 💬 Ask me about:  
-  `Laravel`, `Vue.js`, `Next.js`, `Tailwind`, `Ionic`, `MongoDB`, `Flutter`, `React.js`, `Node.js`, `Python`, `REST APIs`  
-- 📫 Reach me at: **abdulvakeel@skycodelab.in**
-
----
+<br/>
 
