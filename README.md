@@ -1,52 +1,96 @@
 
-<h3 align="center">I'm 😀   Abdul Vakeel Software Engineer from uttarakhand, India. I mostly deal with web development with HTML5/CSS/Javascript,Bootstrap, Jquery, tailwind css, Laravel, Vuejs and ChatGPT, software development  Laravel, PHP,Python (Django, Flask frameworks), Vuejs, REST API, nextjs, tailwindcss, ionicframework, mongodb, flutter, konstaui, reactjs, nodejs
- stack in these days. I have 8+ years of development experience in architecting, designing, development and implementing of web applications, using Laravel,PHP, Vuejs, REST API, nextjs, tailwindcss,ionicframework, mongodb, flutter, konstaui, reactjs,  nodejs and Web technologies.</h3> 
+### 📫 **Reach me at**
+- Email: abdulvakeel@skycodelab.in
+- GitHub: [@AbdulVakeel](https://github.com/AbdulVakeel)
+
+---
+
+## 📊 **Profile Views**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abdulvakeel&label=Profile%20Views&color=0e75b6&style=flat" alt="abdulvakeel" />
+</p>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulvakeel&theme=darkhub&no-frame=true&row=1&column=6" alt="abdulvakeel" />
+  </a>
+</p>
+
+---
+
+## 💰 **Support My Work**
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/abdulvakeel" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+  </a>
   
-   <hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulvakeel&label=Profile%20views&color=0e75b6&style=flat" alt="abdulvakeel" /> </p>
+  <a href="https://github.com/sponsors/AbdulVakeel" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-pink?style=for-the-badge&logo=github-sponsors" alt="GitHub Sponsors" />
+  </a>
+</div>
 
+---
+
+## 🛠️ **Tech Stack**
+
+### **Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### **Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### **Database & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Skills Overview**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,laravel,vue,nextjs,nodejs,flutter,tailwind,php,python,django,mongodb,mysql,git,docker&perline=7" />
+</div>
+
+---
+
+## 📈 **GitHub Stats**
 
 <div align="center">
-<a href='https://www.buymeacoffee.com/abdulvakeel' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-   <hr/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulvakeel" alt="abdulvakeel" /></a> </p>
-
-- 🔭 I’m currently working on **Working as a Software Engineer and contributing to frontend and backend for building web applications and portals**
-
-- 🌱 I’m currently learning : Machine Learning,Artificial Intelligence systems and DevOps...**
-
-- 💬 Ask me about **Laravel, PHP, Vuejs, REST API, nextjs, tailwindcss, ionicframework, mongodb, flutter, konstaui, reactjs, nodejs**
-
-- 📫 How to reach me **abdulvakeel@skycodelab.in**
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,laravel,mui,html,css,vscode,flutter,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,vuejs,nextjs,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
-</div>
-
-<br/>
-<hr/>
-
-
-<div align=center>
-    <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-    
-<img width=300  align="center" src="https://github-readme-stats.vercel.app/api?username=abdulvakeel&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"  />
-
-
-<img width=300 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulvakeel&count_private=true&theme=react&border_radius=10"  />
-
-
-<img width=400  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvakeel&show_icons=true&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats"  />
+  
+  | Stats | Streak | Top Languages |
+  |-------|--------|---------------|
+  | <img width="300" src="https://github-readme-stats.vercel.app/api?username=abdulvakeel&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" /> | <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulvakeel&count_private=true&theme=radical&border_radius=10" /> | <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvakeel&show_icons=true&langs_count=8&layout=compact&theme=radical&border_radius=10" /> |
 
 </div>
 
-<br/>
+---
 
+## 🌟 **Featured Project**
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Anam Vue**](https://github.com/AbdulVakeel/anam-vue) | Modern Vue 3 Analytics Dashboard | Vue 3, Vite, Tailwind CSS |
+
+---
+
+## 📊 **Weekly Development Breakdown**
+
+```text
+Vue.js       8 hrs  ████████░░░░░░░░░░░░ 40%
+Laravel      5 hrs  █████░░░░░░░░░░░░░░░ 25%
+Tailwind     3 hrs  ███░░░░░░░░░░░░░░░░░ 15%
+React        2 hrs  ██░░░░░░░░░░░░░░░░░░ 10%
+Python       2 hrs  ██░░░░░░░░░░░░░░░░░░ 10%
