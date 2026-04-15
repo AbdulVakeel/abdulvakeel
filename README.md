@@ -12,8 +12,6 @@
 
    <hr/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulvakeel" alt="abdulvakeel" /></a> </p>
-
 - 🔭 I’m currently working on **Working as a Software Engineer and contributing to frontend and backend for building web applications and portals**
 
 - 🌱 I’m currently learning : Machine Learning,Artificial Intelligence systems and DevOps...**
