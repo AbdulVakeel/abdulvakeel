@@ -1,52 +1,63 @@
+<h1 align="center">Hi 👋, I'm Abdul Vakeel</h1>
+<h3 align="center">🚀 Senior Software Engineer | Full-Stack Developer | 8+ Years of Experience</h3>
+<h4 align="center">📍 Uttarakhand, India 🇮🇳</h4>
 
-<h3 align="center">I'm 😀   Abdul Vakeel Software Engineer from uttarakhand, India. I mostly deal with web development with HTML5/CSS/Javascript,Bootstrap, Jquery, tailwind css, Laravel, Vuejs and ChatGPT, software development  Laravel, PHP,Python (Django, Flask frameworks), Vuejs, REST API, nextjs, tailwindcss, ionicframework, mongodb, flutter, konstaui, reactjs, nodejs
- stack in these days. I have 8+ years of development experience in architecting, designing, development and implementing of web applications, using Laravel,PHP, Vuejs, REST API, nextjs, tailwindcss,ionicframework, mongodb, flutter, konstaui, reactjs,  nodejs and Web technologies.</h3> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulvakeel&label=👁️ Profile%20Views&color=0e75b6&style=flat-square" alt="abdulvakeel" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I currently work on **large-scale web applications & portals** (Frontend + Backend)
+- 🌱 Learning: **Machine Learning, AI Systems, DevOps & Cloud (AWS/Azure)**
+- 💬 Ask me about: **Laravel, PHP, Vue.js, React, Node.js, Flutter, MongoDB, API Design**
+- 📫 Reach me at: **abdulvakeel@skycodelab.in**
+- ⚡ Fun fact: I love solving complex problems and building scalable systems!
+
+---
+
+### 🛠️ Tech Stack (Proficient)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vuejs,nodejs,laravel,php,python,django,flask,flutter,firebase,mongodb,mysql,postgres,git,github,vscode,figma,tailwind,bootstrap" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies (Top Rows)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulvakeel&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="trophies" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
   
-   <hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulvakeel&label=Profile%20views&color=0e75b6&style=flat" alt="abdulvakeel" /> </p>
+| Stats | Streak |
+|-------|--------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=abdulvakeel&show_icons=true&count_private=true&theme=algolia&hide_border=true) | ![Streak](https://streak-stats.demolab.com?user=abdulvakeel&theme=algolia&hide_border=true) |
 
-
-<div align="center">
-<a href='https://www.buymeacoffee.com/abdulvakeel' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-   <hr/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulvakeel" alt="abdulvakeel" /></a> </p>
-
-- 🔭 I’m currently working on **Working as a Software Engineer and contributing to frontend and backend for building web applications and portals**
-
-- 🌱 I’m currently learning : Machine Learning,Artificial Intelligence systems and DevOps...**
-
-- 💬 Ask me about **Laravel, PHP, Vuejs, REST API, nextjs, tailwindcss, ionicframework, mongodb, flutter, konstaui, reactjs, nodejs**
-
-- 📫 How to reach me **abdulvakeel@skycodelab.in**
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,laravel,mui,html,css,vscode,flutter,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,vuejs,nextjs,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
-</div>
-
-<br/>
-<hr/>
-
-
-<div align=center>
-    <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-    
-<img width=300  align="center" src="https://github-readme-stats.vercel.app/api?username=abdulvakeel&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"  />
-
-
-<img width=300 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulvakeel&count_private=true&theme=react&border_radius=10"  />
-
-
-<img width=400  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvakeel&show_icons=true&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats"  />
+| Most Used Languages (Compact) |
+|-------------------------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulvakeel&layout=compact&theme=algolia&hide_border=true&langs_count=8) |
 
 </div>
 
-<br/>
+---
 
+### 🤝 Let's Connect & Support
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/abdulvakeel" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+<p align="center">
+  <i>💡 "Building the web, one commit at a time."</i>
+</p>
